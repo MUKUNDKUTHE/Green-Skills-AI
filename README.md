@@ -24,10 +24,10 @@ Computer vision-based model to classify waste into different categories.
 Wild fire prediction.ipynb
 Machine learning model to predict wildfire occurrence using historical/environmental data.
 
-Skills Covered
+🔹 Skills Covered
 
 Python Programming, Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Supervised Learning, Unsupervised Learning, Computer Vision Basics, Model Training & Evaluation
 
-🛠 Technologies Used
+🔹 Technologies Used
 
 Python, NumPy, Pandas, Matplotlib / Seaborn, Scikit-learn, Jupyter Notebook
