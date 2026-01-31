@@ -3,7 +3,7 @@ GreenSkills AI
 GreenSkills AI is a collection of Python and Machine Learning projects focused on building core data science skills and applying AI to sustainability and environmental problem statements.
 This repository contains beginner-to-intermediate notebooks covering Python fundamentals, popular ML algorithms, and real-world use cases such as waste sorting and wildfire prediction.
 
-📂 Repository Contents
+Repository Contents
 
 🔹 Machine Learning Algorithms
 
